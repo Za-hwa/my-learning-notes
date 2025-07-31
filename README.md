@@ -15,6 +15,6 @@
   
   하지만! input 보다 빠르고 효율적 & 많은 입력을 처리할 때 유용함
 
-  'number = int(sys.stdin.readline.())'
+  '''number = int(sys.stdin.readline.())'''
   
   위의 형식을 따르는데 import sys 필수!
