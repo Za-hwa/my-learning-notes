@@ -16,4 +16,5 @@
   '''python  
   import sys  
   number = int(sys.stdin.readline())
+  '''
   위의 형식을 따르는데 import sys 필수!
