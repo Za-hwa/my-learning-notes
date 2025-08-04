@@ -47,3 +47,25 @@ except:
 ```
 이런 형식으로 쓰는 데 쉬워서 다행이다라고 생각함.
 
+
+
+
+
+
+
+
+- 4-1 배열
+*이젠 풀려면 배워야하는 구만..ㅋㅋㅋ*  
+배열?? array에 대해 배워보겠당  
+배열은 리스트 *배우긴 했지만 쓰진 않아서 다 까먹으뮤ㅠ*
+
+리스트 함수
+```python
+arrays1 = [0,1,2,3,4,5,6]
+print(arrays[:]) #[]을 통해서 리스트 일부를 꺼낼 수 있음
+print(len(arrays1)) #len()는 괄호안 리스트 요소의 개수를 반환함
+for i in range(arrays1):
+  print(i) #모든 요소를 루프함
+```
+
+<img width="1462" height="974" alt="image" src="https://github.com/user-attachments/assets/60a3a825-c34d-4689-91e0-6148acc50301" />
