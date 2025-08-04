@@ -74,7 +74,11 @@ list로 입력받고 싶다면!!
 ```python
 U_input = list(map(int, input().split()))
 ```
-
+각 요소를 출력하고 싶다면
+```python
+print(*list) #각 요소를 출력
+print(list)# 리스트를 출력
+```
 
 - 4-2 리스트 컴프리헨션  
 *오늘 헷갈리는 거 만ㄴ힝배운다..ㅋㅋㅎ*
