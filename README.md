@@ -68,4 +68,10 @@ for i in range(arrays1):
   print(i) #모든 요소를 루프함
 ```
 
-<img width="1462" height="974" alt="image" src="https://github.com/user-attachments/assets/60a3a825-c34d-4689-91e0-6148acc50301" />
+<img width="1462" height="974" alt="image" src="https://github.com/user-attachments/assets/60a3a825-c34d-4689-91e0-6148acc50301" />  
+
+list로 입력받고 싶다면!!
+```python
+U_input = list(map(int, input().split()))
+```
+
