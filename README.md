@@ -75,3 +75,22 @@ list로 입력받고 싶다면!!
 U_input = list(map(int, input().split()))
 ```
 
+
+- 4-2 리스트 컴프리헨션
+*오늘 헷갈리는 거 만ㄴ힝배운다..ㅋㅋㅎ*
+
+```python
+list = [표현식 for 변수 in 기존 리스트 if 조건] #=> 이거를 리스트 컴프리헨션이라 함!
+```
+
+이를 for 문으로 바꾸면!  
+
+```python
+list = []
+for 변수 in 기존 리스트:
+  if 조건:
+    list.append(표현식)
+```
+
+
+
