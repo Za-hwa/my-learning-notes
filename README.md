@@ -97,4 +97,8 @@ for 변수 in 기존 리스트:
 ```
 
 
-
+- 4-4 index, min, max
+ ```python
+min(list) #최솟값 반환
+print(list.index(max(list))) # 리스트 최댓값의 인덱스 반환
+- 
